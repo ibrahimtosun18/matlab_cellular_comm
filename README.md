@@ -42,6 +42,11 @@ Pseudo Noise (PN) Sequences are binary sequences that appear random but are dete
 ## Usage
 
 To use these codes in your projects, include the respective code files in your application and follow the initialization procedures as documented in the code headers.
+![kod1](https://github.com/ibrahimtosun18/matlab_cellular_comm/assets/95874081/1b3181d4-fab3-4bc6-b270-3f53c49a780e)
+
+![kod2](https://github.com/ibrahimtosun18/matlab_cellular_comm/assets/95874081/34d741fc-a62d-4db5-80b4-06c1801c8f97)
+
+![kod3](https://github.com/ibrahimtosun18/matlab_cellular_comm/assets/95874081/89cddb52-26c7-4bf6-9670-bb5425917560)
 
 ## Contributing
 
