@@ -44,9 +44,23 @@ Pseudo Noise (PN) Sequences are binary sequences that appear random but are dete
 To use these codes in your projects, include the respective code files in your application and follow the initialization procedures as documented in the code headers.
 ![kod1](https://github.com/ibrahimtosun18/matlab_cellular_comm/assets/95874081/1b3181d4-fab3-4bc6-b270-3f53c49a780e)
 
+Terminal output of CDMA_simpleV1
+
+![kod1Terminal](https://github.com/ibrahimtosun18/matlab_cellular_comm/assets/95874081/27d1c28e-58db-45d0-a51d-43137c563bf4)
+
+
 ![kod2](https://github.com/ibrahimtosun18/matlab_cellular_comm/assets/95874081/34d741fc-a62d-4db5-80b4-06c1801c8f97)
 
+Terminal output of CDMA_simpleV2
+
+![kod2Terminal](https://github.com/ibrahimtosun18/matlab_cellular_comm/assets/95874081/f9f3858d-c350-4121-8b57-54e1ea4be002)
+
 ![kod3](https://github.com/ibrahimtosun18/matlab_cellular_comm/assets/95874081/89cddb52-26c7-4bf6-9670-bb5425917560)
+
+Terminal output of CDMA_simpleV3
+
+![kod3Terminal](https://github.com/ibrahimtosun18/matlab_cellular_comm/assets/95874081/da91731b-770b-4102-af33-d99127324a30)
+
 
 ## Contributing
 
